@@ -1,4 +1,7 @@
-# Forknad
+
+
+# Forknad<img width="500" height="500" alt="LORE (81)" src="https://github.com/user-attachments/assets/2bd684d5-9e51-45dc-8acd-a47b1437a4aa" />
+
 A Solana native fork connecting Monad and Solana
 # Solana ↔ Monad Native Bridge
 
